@@ -1,0 +1,108 @@
+<!-- chatbot/templates/chatbot/services.html -->
+{% extends 'chatbot/base.html' %}
+
+{% block title %}Services{% endblock %}
+
+{% block content %}
+<style>
+    /* Custom CSS styles */
+    .service-card {
+        background-color: #fff;
+        padding: 20px;
+        border-radius: 10px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+        opacity: 0;
+        animation: fadeIn 0.5s forwards;
+    }
+
+    .service-card:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+    }
+
+    .service-icon {
+        font-size: 3rem;
+        color: #007bff;
+    }
+
+    .service-heading {
+        font-size: 1.5rem;
+        font-weight: bold;
+        margin-bottom: 10px;
+        color: #333;
+    }
+
+    .service-description {
+        color: #666;
+    }
+
+    @keyframes fadeIn {
+        to {
+            opacity: 1;
+        }
+    }
+</style>
+
+<div class="container">
+    <h2 class="text-center mt-5 mb-4">OUR SERVICES</h2>
+    <div class="row text-center">
+        <div class="col-md-6 mb-4">
+            <div class="service-card" style="animation-delay: 0.1s;">
+                <i class="fas fa-headset service-icon"></i>
+                <h3 class="service-heading">24/7 Support</h3>
+                <p class="service-description">Our chatbot is available around the clock to assist you with any health-related queries.</p>
+            </div>
+        </div>
+        <div class="col-md-6 mb-4">
+            <div class="service-card" style="animation-delay: 0.3s;">
+                <i class="fas fa-heartbeat service-icon"></i>
+                <h3 class="service-heading">Healthcare Advice</h3>
+                <p class="service-description">Get health care advice to cure the disease.</p>
+            </div>
+        </div>
+        <div class="col-md-6 mb-4">
+            <div class="service-card" style="animation-delay: 0.6s;">
+                <i class="fas fa-mobile-alt service-icon"></i>
+                <h3 class="service-heading">Easy Access</h3>
+                <p class="service-description">Access our services from anywhere at any time using your preferred device.</p>
+            </div>
+        </div>
+        <div class="col-md-6 mb-4">
+            <div class="service-card" style="animation-delay: 0.9s;">
+                <i class="fas fa-comment service-icon"></i>
+                <h3 class="service-heading">Health Chatbot</h3>
+                <p class="service-description">Chat with an AI-powered healthcare chatbot for immediate health-related queries.</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Bootstrap CSS -->
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+<!-- Font Awesome -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+
+<!-- Bootstrap JS and any other scripts -->
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.bundle.min.js"></script>
+
+<script>
+    // JavaScript for service card hover effect (already included)
+    document.addEventListener('DOMContentLoaded', function() {
+        const serviceCards = document.querySelectorAll('.service-card');
+
+        serviceCards.forEach(card => {
+            card.addEventListener('mouseenter', function() {
+                card.style.transform = 'translateY(-8px)';
+                card.style.boxShadow = '0 12px 24px rgba(0, 0, 0, 0.15)';
+            });
+
+            card.addEventListener('mouseleave', function() {
+                card.style.transform = 'translateY(0)';
+                card.style.boxShadow = '0 4px 8px rgba(0, 0, 0, 0.1)';
+            });
+        });
+    });
+</script>
+
+{% endblock %}

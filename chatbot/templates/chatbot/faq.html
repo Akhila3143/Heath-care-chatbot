@@ -1,0 +1,119 @@
+<!-- chatbot/templates/chatbot/faq.html -->
+{% extends 'chatbot/base.html' %}
+
+{% block title %}FAQ{% endblock %}
+
+{% block content %}
+<style>
+    body, html {
+        margin: 0;
+        font-family: 'Arial', sans-serif;
+        background-color: #f3f3f3;
+    }
+
+    .container {
+        width: 70%;
+        margin: auto;
+        padding: 30px;
+        background: white;
+        border-radius: 15px;
+        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+        margin-top: 40px;
+    }
+
+    h2 {
+        text-align: center;
+        color:cornflowerblue;
+        font-size: 32px;
+        margin-bottom: 20px;
+        text-transform: uppercase;
+        letter-spacing: 1.5px;
+    }
+
+    .faq-section {
+        margin-bottom: 40px;
+    }
+
+    .faq-item {
+        margin-bottom: 20px;
+    }
+
+    .faq-question {
+        font-size: 20px;
+        font-weight: bold;
+        color: #333;
+        cursor: pointer;
+        padding: 15px;
+        background: #007bff;
+        color: white;
+        border-radius: 5px;
+        transition: background-color 0.3s ease;
+    }
+
+    .faq-question:hover {
+        background-color: #0056b3;
+    }
+
+    .faq-answer {
+        font-size: 18px;
+        color: #555;
+        line-height: 1.6;
+        display: none;
+        padding: 10px 15px;
+        border: 1px solid #ddd;
+        border-top: none;
+        border-radius: 0 0 5px 5px;
+        background: #f9f9f9;
+    }
+</style>
+
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        var faqQuestions = document.querySelectorAll('.faq-question');
+        faqQuestions.forEach(function(question) {
+            question.addEventListener('click', function() {
+                var answer = this.nextElementSibling;
+                if (answer.style.display === 'block') {
+                    answer.style.display = 'none';
+                } else {
+                    answer.style.display = 'block';
+                }
+            });
+        });
+    });
+</script>
+
+<div class="container">
+    <h2>Frequently Asked Questions</h2>
+    <div class="faq-section">
+        <div class="faq-item">
+            <div class="faq-question">What services does the healthcare chatbot provide?</div>
+            <div class="faq-answer">Our healthcare chatbot provides personalized health tips, food recommendations, and medicine suggestions based on your individual health needs and preferences. It aims to support your wellness journey by offering accessible and reliable information.</div>
+        </div>
+        <div class="faq-item">
+            <div class="faq-question">How do I get health tips from the chatbot?</div>
+            <div class="faq-answer">To receive health tips, simply start a conversation with our chatbot and mention your specific health concerns or goals. The chatbot will analyze your input and provide tailored advice to help you maintain or improve your health.</div>
+        </div>
+        <div class="faq-item">
+            <div class="faq-question">Can the chatbot recommend food based on my dietary preferences?</div>
+            <div class="faq-answer">Yes, the chatbot can provide food recommendations that align with your dietary preferences and nutritional needs. Whether you follow a specific diet or have certain food restrictions, the chatbot will suggest options that are suitable for you.</div>
+        </div>
+        <div class="faq-item">
+            <div class="faq-question">How does the chatbot suggest medicines?</div>
+            <div class="faq-answer">The chatbot uses a database of medical information to suggest over-the-counter medicines and remedies for common ailments. For more serious conditions, it advises consulting a healthcare professional for a proper diagnosis and prescription.</div>
+        </div>
+        <div class="faq-item">
+            <div class="faq-question">Is the information provided by the chatbot reliable?</div>
+            <div class="faq-answer">Our chatbot is designed to offer information based on verified medical sources and guidelines. However, it is not a substitute for professional medical advice, diagnosis, or treatment. Always consult your healthcare provider for any health concerns.</div>
+        </div>
+        <div class="faq-item">
+            <div class="faq-question">Can the chatbot assist with mental health concerns?</div>
+            <div class="faq-answer">Yes, the chatbot can provide general tips for mental well-being and suggest resources for managing stress, anxiety, and other common mental health issues. For more serious concerns, we recommend seeking help from a licensed mental health professional.</div>
+        </div>
+        <div class="faq-item">
+            <div class="faq-question">How do I provide feedback about the chatbot?</div>
+            <div class="faq-answer">We value your feedback and are constantly looking to improve our services. You can provide feedback by clicking on the feedback button in the chatbot interface or by contacting our support team through the contact us page.</div>
+        </div>
+    </div>
+</div>
+{% endblock %}

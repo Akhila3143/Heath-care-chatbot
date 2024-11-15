@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}Healthcare Chatbot{% endblock %}</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Font Awesome for icons -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" rel="stylesheet">
+    <style>
+        /* Remove default margin and padding */
+        body, html {
+            margin: 0;
+            padding: 0;
+        }
+        
+        /* Navbar */
+        .navbar {
+            background-color: #1a73e8; /* Blue shade for branding */
+            margin-bottom: 0; /* Remove bottom margin */
+            border-radius: 0; /* Remove rounded corners */
+        }
+        .navbar-brand,
+        .navbar-nav .nav-link {
+            color: #fff; /* Text color */
+        }
+        .navbar-toggler {
+            border-color: #fff; /* Toggle button color */
+        }
+
+        /* Navbar Links */
+        .navbar-nav .nav-item {
+            margin-right: 10px; /* Adjust spacing between nav items */
+        }
+        .navbar-nav .nav-link {
+            color: #fff; /* Text color */
+            padding: 10px 30px; /* Padding for nav links */
+            border: 1px solid #fff; /* Border color */
+            border-radius: 5px; /* Rounded corners */
+            transition: all 0.3s ease; /* Smooth transition */
+        }
+        .navbar-nav .nav-link:hover {
+            background-color: #1a73e8; /* Background color on hover */
+            color: #58db34; /* Change to desired hover color */
+            text-decoration: none;
+        }
+
+        /* Hero Section */
+        .hero {
+            background-color: rgba(26, 115, 232, 0.8); /* Default hero background */
+            color: #fff;
+            padding: 100px 0;
+            text-align: center;
+        }
+        .hero h1 {
+            color: #fff; /* Hero header text color */
+        }
+
+        /* Footer */
+        .footer {
+            background: #f8f9fa;
+            padding: 50px 0;
+            text-align: center;
+        }
+        .footer p {
+            margin-bottom: 0; /* Remove default bottom margin */
+        }
+
+        /* Card Styles */
+        .card {
+            margin-bottom: 20px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+            transition: 0.3s;
+        }
+        .card:hover {
+            box-shadow: 0 8px 16px rgba(0,0,0,0.2);
+        }
+
+        /* Button Styles */
+        .btn-primary {
+            background-color: #3498db;
+            border-color: #3498db;
+        }
+        .btn-primary:hover {
+            background-color: #2980b9;
+            border-color: #2980b9;
+        }
+
+        /* Light Blue Heading Styles */
+        .service-heading {
+            color: rgba(26, 115, 232, 0.8); /* Light blue color */
+        }
+
+        /* Blue Icon Styles */
+        .service-icon {
+            color: #1a73e8; /* Blue color for icons */
+        }
+
+        /* Boxed Link Style */
+        .nav-link-boxed {
+            display: inline-block;
+            padding: 10px 20px;
+            border: 1px #fff;
+            border-radius: 5px;
+            color: #fff;
+            transition: all 0.3s ease;
+            margin-right: 100px; /* Add space between boxes */
+        }
+        .nav-link-boxed:last-child {
+            margin-right: 0; /* Remove margin for the last item */
+        }
+        .nav-link-boxed:hover {
+            background-color: rgba(255, 217, 0, 0.874);
+            color: #fff;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg">
+        <a class="navbar-brand" href="#">HEALTHCARE CHATBOT</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav ml-auto">
+                <li class="nav-item">
+                    <a class="nav-link nav-link-boxed" href="{% url 'register' %}">Register</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link nav-link-boxed" href="{% url 'login' %}">Login</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link nav-link-boxed" href="{% url 'services' %}">Our Services</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link nav-link-boxed" href="{% url 'faq' %}">FAQ</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link nav-link-boxed" href="{% url 'about_us' %}">About Us</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+    <div>
+        {% block content %}
+        {% endblock %}
+    </div>
+    <!-- Bootstrap JS, Popper.js, and jQuery -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>

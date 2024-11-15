@@ -1,0 +1,1207 @@
+{
+    "symptoms_tips": [
+        {
+            "symptom": "fever",
+            "tip": "It sounds like you have a fever. Make sure to stay hydrated and rest. If your fever persists, please consult a doctor.",
+            "food": "Drink plenty of fluids like water, herbal teas, or clear broths. Eat light foods like bananas, rice, applesauce, and toast (BRAT diet). Avoid heavy or spicy meals.",
+            "medicine": "Over-the-counter fever reducers like acetaminophen (Tylenol) or ibuprofen (Advil/Motrin) may help. Follow dosage instructions carefully."
+        },
+        {
+            "symptom": "headache",
+            "tip": "For headaches, try to rest in a quiet, dark room. Stay hydrated and consider over-the-counter pain relief.",
+            "food": "Drink water or non-caffeinated beverages to stay hydrated. Eating magnesium-rich foods like spinach, nuts, and whole grains may also help.",
+            "medicine": "Over-the-counter pain relievers such as acetaminophen (Tylenol) or ibuprofen (Advil/Motrin) can provide relief. Avoid excessive caffeine intake."
+        },
+        {
+            "symptom": "cough",
+            "tip": "If you have a cough, it may be helpful to stay hydrated and use a humidifier. Avoid irritants like smoke or strong odors.",
+            "food": "Warm liquids like herbal teas with honey or clear broths can soothe your throat. Avoid dairy products if they increase mucus production.",
+            "medicine": "Consider over-the-counter cough suppressants or expectorants as directed. Consult a healthcare provider for persistent or severe coughs."
+        },
+        {
+            "symptom": "nausea",
+            "tip": "To alleviate nausea, try eating small, frequent meals and avoid greasy or spicy foods. Resting in a comfortable position may also help.",
+            "food": "Eat bland foods like crackers, toast, or bananas. Ginger in various forms (ginger tea, ginger ale) is known to help settle the stomach.",
+            "medicine": "Over-the-counter medications like dimenhydrinate (Dramamine) or meclizine (Bonine) can help relieve nausea. Follow dosage instructions."
+        },
+        {
+            "symptom": "fatigue",
+            "tip": "If you're feeling fatigued, prioritize rest and sleep. Maintain a balanced diet and stay hydrated throughout the day.",
+            "food": "Include energy-boosting foods like whole grains, lean proteins (chicken, fish), fruits, and vegetables in your meals. Avoid heavy, sugary snacks.",
+            "medicine": "Fatigue can sometimes be linked to underlying health issues. Consult a healthcare provider for persistent fatigue or concerns."
+        },
+        {
+        
+                
+                        "symptom": "sore throat",
+                        "tip": "For a sore throat, gargle with warm saltwater and stay hydrated. Rest your voice and avoid irritants like smoking.",
+                        "food": "Eat soothing foods like warm soups, broths, or soft foods. Avoid spicy or acidic foods that can irritate the throat.",
+                        "medicine": "Over-the-counter pain relievers like acetaminophen (Tylenol) or throat lozenges may help. Consult a pharmacist or doctor for suitable options."
+                    },
+                    {
+                        "symptom": "stomach ache",
+                        "tip": "For stomachaches, rest and avoid heavy meals. Consider applying a warm compress to ease discomfort.",
+                        "food": "Eat light, easy-to-digest foods like bananas, rice, applesauce, or plain toast (BRAT diet). Avoid greasy or spicy foods.",
+                        "medicine": "Over-the-counter antacids or pain relievers may help alleviate stomach pain. Follow dosage instructions carefully."
+                    },
+                    {
+                        "symptom": "muscle pain",
+                        "tip": "If you have muscle pain, rest the affected area and apply ice or heat packs. Gentle stretching and massage may provide relief.",
+                        "food": "Include foods rich in magnesium and potassium like bananas, leafy greens, and nuts to support muscle function. Stay hydrated.",
+                        "medicine": "Over-the-counter pain relievers like ibuprofen (Advil/Motrin) or acetaminophen (Tylenol) may help reduce muscle pain. Follow dosage instructions carefully."
+                    },
+                    {
+                        "symptom": "runny nose",
+                        "tip": "A runny nose could be due to allergies or a cold. Use saline nasal sprays and stay hydrated. Rest and avoid irritants like smoke.",
+                        "food": "Drink warm liquids like herbal teas or broth to soothe a sore throat and stay hydrated. Avoid dairy products if you have excess mucus.",
+                        "medicine": "Over-the-counter antihistamines or decongestants may provide relief. Consult a pharmacist or doctor for suitable options."
+                    },
+                    {
+                        "symptom": "diarrhea",
+                        "tip": "If you have diarrhea, stay hydrated with water, clear broths, or oral rehydration solutions. Avoid dairy, fatty foods, caffeine, and alcohol.",
+                        "food": "Eat bland, low-fiber foods like bananas, rice, applesauce, and toast (BRAT diet). Gradually introduce solid foods as symptoms improve.",
+                        "medicine": "Over-the-counter anti-diarrheal medications like loperamide (Imodium) may help control symptoms. Follow dosage instructions carefully."
+                    },
+                    {
+                        "symptom": "rash",
+                        "tip": "If you develop a rash, avoid scratching to prevent further irritation. Keep the affected area clean and dry. Identify and avoid potential allergens or irritants.",
+                        "food": "Focus on an anti-inflammatory diet rich in fruits, vegetables, and omega-3 fatty acids. Stay hydrated with water and herbal teas.",
+                        "medicine": "Topical corticosteroids or antihistamines may help relieve itching and inflammation. Consult a dermatologist for proper diagnosis and treatment."
+                    },
+                    {
+                        "symptom": "difficulty breathing",
+                        "tip": "If you experience difficulty breathing, seek immediate medical attention. Practice relaxation techniques and avoid triggers like smoke or allergens.",
+                        "food": "Consume anti-inflammatory foods like turmeric, ginger, and leafy greens. Avoid heavy meals that may exacerbate breathing difficulties.",
+                        "medicine": "Depending on the cause, medications like bronchodilators or corticosteroids may be prescribed to alleviate symptoms. Follow medical advice closely."
+                    },
+                    {
+                        "symptom": "joint pain",
+                        "tip": "For joint pain, rest the affected joint and apply ice or heat packs. Gentle stretching and low-impact exercises may help alleviate stiffness.",
+                        "food": "Incorporate foods rich in omega-3 fatty acids (such as salmon, flaxseeds) and antioxidants (berries, spinach) to support joint health. Stay hydrated.",
+                        "medicine": "Over-the-counter pain relievers like acetaminophen or nonsteroidal anti-inflammatory drugs (NSAIDs) may provide relief. Consult a healthcare provider for chronic or severe pain."
+                    },
+                    {
+                        "symptom": "insomnia",
+                        "tip": "To manage insomnia, establish a consistent sleep schedule and create a relaxing bedtime routine. Avoid stimulating activities and electronics before bed.",
+                        "food": "Choose sleep-promoting foods like almonds, turkey, kiwi, and whole grains. Limit caffeine and heavy meals close to bedtime.",
+                        "medicine": "Consult a healthcare provider for prescription sleep aids or supplements like melatonin if natural remedies are ineffective. Practice good sleep hygiene."
+                    },
+                    {
+                        "symptom": "muscle soreness",
+                        "tip": "For muscle soreness, rest the affected muscles and apply ice or heat packs. Gentle stretching and massages may help alleviate discomfort.",
+                        "food": "Consume foods rich in antioxidants (e.g., berries, spinach) and protein to support muscle recovery. Stay hydrated with water.",
+                        "medicine": "Over-the-counter pain relievers like acetaminophen or NSAIDs (e.g., ibuprofen) can reduce pain and inflammation. Consult a healthcare provider for severe or persistent soreness."
+                    },
+                    {
+                        "symptom": "anxiety",
+                        "tip": "If you experience anxiety, practice relaxation techniques such as deep breathing or meditation. Maintain a healthy lifestyle with regular exercise and adequate sleep.",
+                        "food": "Include foods rich in magnesium (e.g., leafy greens, nuts) and omega-3 fatty acids (e.g., salmon, chia seeds) to support mood regulation. Limit caffeine and alcohol.",
+                        "medicine": "Consider therapies like cognitive-behavioral therapy (CBT) or medications like selective serotonin reuptake inhibitors (SSRIs) under the guidance of a mental health professional."
+                    },
+                    {
+                        "symptom": "constipation",
+                        "tip": "To relieve constipation, increase fiber intake through fruits, vegetables, and whole grains. Stay hydrated with water and herbal teas. Engage in regular physical activity.",
+                        "food": "Eat fiber-rich foods like prunes, bran cereal, beans, and broccoli. Avoid processed foods and dairy products if they contribute to constipation.",
+                        "medicine": "Over-the-counter laxatives (e.g., bulk-forming, stimulant) may provide short-term relief. Consult a healthcare provider for chronic or severe constipation."
+                    },
+                    {
+                        "symptom": "dizziness",
+                        "tip": "For dizziness, lie down in a safe place and rest until symptoms subside. Avoid sudden movements and stay hydrated with water or electrolyte drinks.",
+                        "food": "Eat small, frequent meals to stabilize blood sugar levels. Include foods rich in iron (e.g., spinach, red meat) and vitamin C (e.g., citrus fruits) to support circulation.",
+                        "medicine": "Consult a healthcare provider to determine the underlying cause of dizziness. Avoid driving or operating heavy machinery until symptoms resolve."
+                    },
+                    {
+                        "symptom": "shortness of breath",
+                        "tip": "For shortness of breath, sit upright and try to remain calm. Practice slow, deep breathing techniques. Use a fan or open a window for fresh air if possible.",
+                        "food": "Choose light, easy-to-digest foods to prevent further strain. Stay hydrated with water or herbal teas. Avoid heavy or large meals that can make breathing more difficult.",
+                        "medicine": "Inhalers or bronchodilators prescribed by a healthcare provider can help manage shortness of breath associated with conditions like asthma or COPD. Seek immediate medical attention for sudden or severe breathing difficulties."
+                    },
+                    {
+                        "symptom": "itchy eyes",
+                        "tip": "For itchy eyes, avoid rubbing them to prevent further irritation. Use artificial tears or eye drops to lubricate and soothe the eyes. Apply cool compresses over closed eyelids.",
+                        "food": "Include foods rich in vitamin A (e.g., carrots, spinach) and omega-3 fatty acids (e.g., salmon, flaxseeds) to support eye health. Stay hydrated with water and limit caffeine intake.",
+                        "medicine": "Over-the-counter antihistamine eye drops or oral antihistamines (e.g., loratadine) can help relieve itching caused by allergies. Consult a healthcare provider for persistent eye irritation."
+                    },
+                    {
+                        "symptom": "toothache",
+                        "tip": "For tooth pain, rinse with warm salt water to reduce inflammation and relieve discomfort. Avoid very hot or cold foods that can trigger sensitivity. Use over-the-counter pain relievers as directed.",
+                        "food": "Choose soft, easy-to-chew foods like soups, yogurt, and mashed potatoes to minimize jaw movement. Avoid sugary foods and beverages that can worsen tooth sensitivity.",
+                        "medicine": "Over-the-counter pain relievers such as acetaminophen or ibuprofen can temporarily alleviate toothache pain. Consult a dentist for persistent or severe tooth pain."
+                    },
+                    {
+                        "symptom": "sunburn",
+                        "tip": "For sunburn relief, take a cool bath or shower to soothe the skin. Apply moisturizing lotion or aloe vera gel to hydrate and cool the affected area. Avoid further sun exposure.",
+                        "food": "Drink plenty of water to stay hydrated and aid skin recovery. Eat foods rich in antioxidants (e.g., berries, tomatoes) and vitamins C and E to promote healing.",
+                        "medicine": "Over-the-counter pain relievers like acetaminophen or ibuprofen can help reduce pain and inflammation from sunburn. Use topical hydrocortisone cream for itching and discomfort."
+                    },
+                    {
+                        "symptom": "burns",
+                        "tip": "For minor burns, run cool water over the affected area for at least 10 minutes to cool the skin and reduce pain. Cover with a clean, non-stick bandage or cloth.",
+                        "food": "Consume foods rich in vitamin C (e.g., oranges, strawberries) and zinc (e.g., nuts, whole grains) to support skin healing. Drink plenty of fluids to stay hydrated.",
+                        "medicine": "Apply antibiotic ointment to prevent infection. Over-the-counter pain relievers like acetaminophen or ibuprofen can help manage pain and inflammation. Seek medical attention for severe burns."
+                    },
+                    {
+                        "symptom": "hay fever",
+                        "tip": "For hay fever (allergic rhinitis), limit outdoor activities during peak pollen times. Keep windows closed and use air purifiers indoors. Rinse nasal passages with saline solution.",
+                        "food": "Include anti-inflammatory foods like apples, broccoli, and walnuts in your diet to support immune function. Drink plenty of fluids to thin mucus secretions.",
+                        "medicine": "Over-the-counter antihistamines (e.g., loratadine) or nasal corticosteroids can alleviate hay fever symptoms. Consult a healthcare provider for severe allergies or persistent symptoms."
+                    },
+                    {
+                        "symptom": "eczema",
+                        "tip": "For eczema flare-ups, moisturize daily with emollients to hydrate and protect the skin barrier. Use mild, fragrance-free soaps and avoid hot baths. Wear soft, breathable fabrics.",
+                        "food": "Incorporate foods rich in omega-3 fatty acids (e.g., flaxseeds, salmon) and probiotics (e.g., yogurt) to support skin health. Stay hydrated with water and herbal teas.",
+                        "medicine": "Topical corticosteroids or calcineurin inhibitors can reduce inflammation and itching. Consult a dermatologist for severe or persistent eczema."
+                    },
+                    {
+                        "symptom": "migraine",
+                        "tip": "For migraines, rest in a dark, quiet room and apply a cold compress to the forehead or neck. Practice relaxation techniques like deep breathing or meditation.",
+                        "food": "Eat magnesium-rich foods like almonds, spinach, and avocados to help prevent migraines. Stay hydrated with water and herbal teas. Avoid triggers like caffeine, alcohol, and processed foods.",
+                        "medicine": "Over-the-counter pain relievers (e.g., acetaminophen, ibuprofen) or prescription medications like triptans can help alleviate migraine symptoms. Consult a healthcare provider for personalized migraine management."
+                    },
+                    {
+                        "symptom": "bruises",
+                        "tip": "For bruises, apply a cold compress or ice pack wrapped in a cloth to reduce swelling and pain. Elevate the injured area if possible. Rest and avoid strenuous activities.",
+                        "food": "Consume foods rich in vitamin K (e.g., kale, spinach) to support blood clotting and bruise healing. Include protein-rich foods like lean meats and beans to aid tissue repair.",
+                        "medicine": "Over-the-counter pain relievers like acetaminophen or ibuprofen can help manage pain associated with bruises. Consult a healthcare provider for severe bruising or if bruises occur frequently."
+                    },
+                    {
+                        "symptom": "hives",
+                        "tip": "For hives (urticaria), apply cool compresses to the affected area to reduce itching and inflammation. Avoid scratching to prevent further irritation. Wear loose-fitting clothing.",
+                        "food": "Choose anti-inflammatory foods like berries, fatty fish (e.g., salmon), and leafy greens to support immune health. Stay hydrated with water and herbal teas.",
+                        "medicine": "Over-the-counter antihistamines (e.g., diphenhydramine) can help relieve hives symptoms. Consult a healthcare provider for severe or persistent outbreaks."
+                    },
+                    {
+                        "symptom": "sprain",
+                        "tip": "For a sprained joint, rest and elevate the injured area to reduce swelling. Apply ice wrapped in a cloth for 15-20 minutes every few hours. Use a compression bandage to support the joint.",
+                        "food": "Consume foods rich in vitamin C (e.g., oranges, strawberries) and zinc (e.g., nuts, whole grains) to support tissue healing. Include protein sources like lean meats and beans for muscle repair.",
+                        "medicine": "Over-the-counter pain relievers like acetaminophen or ibuprofen can help reduce pain and inflammation from a sprain. Consult a healthcare provider for severe sprains or if mobility is impaired."
+                    },
+                    {
+                        "symptom": "back pain",
+                        "tip": "For back pain, rest in a comfortable position and apply ice or heat therapy to the affected area. Practice gentle stretching exercises and avoid lifting heavy objects.",
+                        "food": "Eat foods rich in calcium (e.g., dairy products, leafy greens) and vitamin D (e.g., fatty fish, fortified cereals) to support bone health and muscle function. Stay hydrated with water and herbal teas.",
+                        "medicine": "Over-the-counter pain relievers like acetaminophen or NSAIDs (e.g., ibuprofen) can help alleviate back pain. Consult a healthcare provider for chronic or severe back pain."
+                    },
+                    {
+                        "symptom": "sinus congestion",
+                        "tip": "For sinus congestion, inhale steam from a bowl of hot water or use a humidifier to moisten nasal passages. Use saline nasal sprays or rinses to clear mucus.",
+                        "food": "Include spicy foods like chili peppers or horseradish to help thin mucus and relieve congestion. Drink plenty of fluids like water and herbal teas to stay hydrated.",
+                        "medicine": "Over-the-counter decongestants (e.g., pseudoephedrine) or nasal corticosteroids can reduce sinus congestion. Consult a healthcare provider for persistent or severe symptoms."
+                    },
+                    {
+                        "symptom": "tooth sensitivity",
+                        "tip": "For tooth sensitivity, use a soft-bristled toothbrush and desensitizing toothpaste. Avoid acidic foods and beverages that can wear down tooth enamel. Limit brushing vigorously and use gentle strokes.",
+                        "food": "Choose soft, non-acidic foods like yogurt, bananas, and oatmeal to minimize tooth sensitivity. Drink water or milk to neutralize acid in the mouth.",
+                        "medicine": "Desensitizing toothpaste containing potassium nitrate or fluoride can help alleviate tooth sensitivity. Consult a dentist for persistent or severe sensitivity."
+                    },
+                    {
+                        "symptom": "bloating",
+                        "tip": "For bloating, eat smaller meals more frequently to prevent overloading the digestive system. Avoid carbonated drinks and chewing gum that can cause gas. Practice relaxation techniques to reduce stress.",
+                        "food": "Choose foods low in fermentable oligosaccharides, disaccharides, monosaccharides, and polyols (FODMAPs) such as leafy greens, bananas, and rice to reduce bloating. Drink herbal teas like peppermint or ginger.",
+                        "medicine": "Over-the-counter anti-gas medications like simethicone can help relieve bloating symptoms. Consult a healthcare provider for persistent or severe bloating."
+                    },
+                    {
+                        "symptom": "heartburn",
+                        "tip": "For heartburn, avoid trigger foods like spicy or acidic items. Eat smaller, more frequent meals and avoid lying down immediately after eating. Use pillows to elevate your head while sleeping.",
+                        "food": "Opt for low-acid foods like oatmeal, bananas, and whole grains to minimize heartburn. Drink plenty of water and avoid caffeine and alcohol.",
+                        "medicine": "Over-the-counter antacids (e.g., calcium carbonate) or acid reducers (e.g., ranitidine) can help relieve heartburn symptoms. Consult a healthcare provider for persistent or severe heartburn."
+                    },
+                    {
+                        "symptom": "stiff neck",
+                        "tip": "For a stiff neck, apply a heating pad or warm compress to relax tense muscles. Gently stretch and rotate the neck to improve flexibility. Avoid sudden movements or activities that strain the neck.",
+                        "food": "Choose foods rich in magnesium (e.g., nuts, seeds) and potassium (e.g., bananas, potatoes) to support muscle relaxation and reduce stiffness. Stay hydrated with water and herbal teas.",
+                        "medicine": "Over-the-counter pain relievers like acetaminophen or NSAIDs (e.g., ibuprofen) can help reduce neck pain and inflammation. Consult a healthcare provider for persistent stiffness or if accompanied by other symptoms."
+                    },
+                    {
+                        "symptom": "acid reflux",
+                        "tip": "For acid reflux, eat smaller meals and avoid trigger foods like spicy, fatty, or acidic items. Stay upright after eating and avoid lying down immediately. Wear loose-fitting clothing to reduce pressure on the stomach.",
+                        "food": "Opt for non-acidic fruits like bananas, melons, and apples. Choose lean proteins like chicken or fish. Drink plenty of water and herbal teas.",
+                        "medicine": "Over-the-counter antacids (e.g., aluminum hydroxide) or acid reducers (e.g., proton pump inhibitors) can help manage acid reflux symptoms. Consult a healthcare provider for chronic reflux or severe symptoms."
+                    },
+                    {
+                        "symptom": "jaw pain",
+                        "tip": "For jaw pain, apply a cold or warm compress to the affected area. Avoid chewing gum and hard foods that strain the jaw. Practice gentle jaw exercises and relaxation techniques.",
+                        "food": "Choose soft, easy-to-chew foods like yogurt, smoothies, and scrambled eggs to minimize jaw movement. Drink water and herbal teas to stay hydrated.",
+                        "medicine": "Over-the-counter pain relievers like acetaminophen or NSAIDs (e.g., ibuprofen) can help alleviate jaw pain. Consult a healthcare provider for persistent or severe pain."
+                    },
+                    {
+                        "symptom": "dental abscess",
+                        "tip": "For a dental abscess, rinse your mouth with warm salt water to reduce pain and swelling. Avoid very hot or cold foods and beverages. Use over-the-counter pain relievers as directed.",
+                        "food": "Choose soft, non-acidic foods like mashed potatoes, yogurt, and applesauce to minimize discomfort. Drink water or herbal teas to stay hydrated and flush out bacteria.",
+                        "medicine": "Over-the-counter pain relievers like acetaminophen or NSAIDs (e.g., ibuprofen) can help manage pain from a dental abscess. Seek prompt dental care for evaluation and treatment."
+                    },
+                    {
+                        "symptom": "pink eye",
+                        "tip": "For pink eye (conjunctivitis), avoid touching or rubbing your eyes. Use warm compresses to reduce discomfort and remove crusty discharge. Wash hands frequently to prevent spreading.",
+                        "food": "Include foods rich in vitamin A (e.g., carrots, spinach) and vitamin C (e.g., oranges, strawberries) to support eye health and immune function. Drink plenty of fluids to stay hydrated.",
+                        "medicine": "Over-the-counter antihistamine or antibiotic eye drops can help treat pink eye symptoms. Consult a healthcare provider for severe or persistent symptoms."
+                    },
+                    {
+                        "symptom": "ear infection",
+                        "tip": "For an ear infection, apply a warm compress to the affected ear to reduce pain and discomfort. Avoid inserting objects into the ear canal. Rest in a comfortable position.",
+                        "food": "Choose soft, easy-to-chew foods like soups, yogurt, and applesauce to minimize jaw movement. Drink water or herbal teas to stay hydrated.",
+                        "medicine": "Over-the-counter pain relievers like acetaminophen or ibuprofen can help manage ear pain. Antibiotic eardrops or oral antibiotics may be prescribed for bacterial infections. Consult a healthcare provider for evaluation and treatment."
+                    },
+                    {
+                        "symptom": "vertigo",
+                        "tip": "For vertigo, sit or lie down in a safe place until symptoms pass. Avoid sudden movements or changes in position. Use a support person or walking aid if needed.",
+                        "food": "Eat small, frequent meals to stabilize blood sugar levels. Include foods rich in magnesium (e.g., nuts, seeds) and vitamin B6 (e.g., bananas, chicken) to support balance and nerve function.",
+                        "medicine": "Medications like meclizine or diazepam may be prescribed by a healthcare provider to manage vertigo symptoms. Vestibular rehabilitation exercises can also be beneficial. Consult a professional for personalized treatment."
+                    },
+                    {
+                        "symptom": "gout",
+                        "tip": "For gout flare-ups, rest and elevate the affected joint to reduce swelling. Apply ice wrapped in a cloth for 15-20 minutes several times a day. Avoid alcohol and purine-rich foods.",
+                        "food": "Choose low-purine foods like cherries, berries, and low-fat dairy products to help lower uric acid levels. Stay hydrated with water and limit sugary beverages.",
+                        "medicine": "Over-the-counter nonsteroidal anti-inflammatory drugs (NSAIDs) like ibuprofen can help reduce pain and inflammation during gout attacks. Consult a healthcare provider for long-term management and prevention."
+                    },
+                    {
+                        "symptom": "gastroenteritis",
+                        "tip": "For gastroenteritis (stomach flu), rest and drink plenty of clear fluids to prevent dehydration. Gradually introduce bland, easy-to-digest foods as tolerated. Avoid dairy products, caffeine, and alcohol.",
+                        "food": "Start with BRAT foods (bananas, rice, applesauce, toast) and progress to soups, crackers, and lean proteins like chicken or tofu. Drink oral rehydration solutions to replace lost electrolytes.",
+                        "medicine": "Over-the-counter medications like bismuth subsalicylate (Pepto-Bismol) can help alleviate symptoms of gastroenteritis. Consult a healthcare provider for severe or prolonged illness."
+                    },
+                    {
+                        "symptom": "sun allergy",
+                        "tip": "For sun allergy (photosensitivity), avoid prolonged sun exposure, especially during peak hours (10 AM to 4 PM). Wear protective clothing, hats, and sunglasses. Use broad-spectrum sunscreen with SPF 30 or higher.",
+                        "food": "Include antioxidant-rich foods like berries, leafy greens, and nuts to support skin health. Drink plenty of water to stay hydrated and help flush out toxins.",
+                        "medicine": "Over-the-counter antihistamines (e.g., cetirizine) or corticosteroid creams can help relieve itching and inflammation from sun allergies. Consult a dermatologist for severe or persistent symptoms."
+                    },
+                    {
+                        "symptom": "heat exhaustion",
+                        "tip": "For heat exhaustion, move to a cool, shaded area and rest. Remove excess clothing and use cool, wet cloths or take a cool shower to lower body temperature. Drink cool fluids like water or electrolyte drinks.",
+                        "food": "Eat small, light meals to aid digestion and energy recovery. Choose hydrating foods like watermelon, cucumber, and oranges. Avoid caffeine and alcohol, which can contribute to dehydration.",
+                        "medicine": "In cases of severe heat exhaustion, seek immediate medical attention. Use oral rehydration solutions or intravenous fluids to replace lost electrolytes. Avoid over-the-counter medications unless advised by a healthcare provider."
+                    },
+                    {
+                        "symptom": "hypertension",
+                        "tip": "To manage hypertension (high blood pressure), adopt a balanced diet rich in fruits, vegetables, and low-fat dairy products. Limit sodium intake and avoid processed foods high in salt. Engage in regular physical activity.",
+                        "food": "Include potassium-rich foods like bananas, oranges, and potatoes to help regulate blood pressure. Choose whole grains, lean proteins, and heart-healthy fats like olive oil and nuts.",
+                        "medicine": "Prescription medications like diuretics, ACE inhibitors, or calcium channel blockers may be prescribed to lower blood pressure. Monitor blood pressure regularly and consult a healthcare provider for personalized management."
+                    },
+                    {
+                        "symptom": "insulin resistance",
+                        "tip": "For insulin resistance, maintain a healthy weight through balanced nutrition and regular physical activity. Choose complex carbohydrates, lean proteins, and fiber-rich foods to stabilize blood sugar levels. Limit sugary beverages and processed foods.",
+                        "food": "Include high-fiber foods like beans, lentils, and whole grains to improve insulin sensitivity. Eat small, frequent meals to prevent blood sugar spikes. Drink water or herbal teas to stay hydrated.",
+                        "medicine": "Metformin or other medications prescribed by a healthcare provider may be used to manage insulin resistance. Monitor blood glucose levels and consult a professional for personalized treatment."
+                    },
+                    
+                        {
+                            "Symptom": "itching",
+                           
+                            "Tip": "Apply a soothing lotion",
+                            "Food": "Oatmeal, Aloe Vera",
+                            "Medicine": "Hydrocortisone cream"
+                        },
+                        {
+                            "Symptom": "skin_rash",
+                           
+                            "Tip": "Keep the area clean and dry",
+                            "Food": "Cucumber, Turmeric",
+                            "Medicine": "Antihistamines"
+                        },
+                        {
+                            "Symptom": "nodal_skin_eruptions",
+                           
+                            "Tip": "Avoid scratching",
+                            "Food": "Leafy greens, Berries",
+                            "Medicine": "Topical steroids"
+                        },
+                        {
+                            "Symptom": "continuous_sneezing",
+                           
+                            "Tip": "Use a humidifier",
+                            "Food": "Vitamin C rich foods, Ginger",
+                            "Medicine": "Antihistamines"
+                        },
+                        {
+                            "Symptom": "shivering",
+                           
+                            "Tip": "Stay warm and hydrated",
+                            "Food": "Warm soups, Herbal teas",
+                            "Medicine": "Acetaminophen"
+                        },
+                        {
+                            "Symptom": "chills",
+                           
+                            "Tip": "Wear warm clothing",
+                            "Food": "Warm beverages, Nuts",
+                            "Medicine": "Ibuprofen"
+                        },
+                        {
+                            "Symptom": "joint_pain",
+                          
+                            "Tip": "Apply heat or cold packs",
+                            "Food": "Omega-3 rich foods, Turmeric",
+                            "Medicine": "NSAIDs"
+                        },
+                        {
+                            "Symptom": "stomach_pain",
+                            
+                            "Tip": "Avoid spicy foods",
+                            "Food": "Bananas, Rice",
+                            "Medicine": "Antacids"
+                        },
+                        {
+                            "Symptom": "acidity",
+                           
+                            "Tip": "Avoid lying down after meals",
+                            "Food": "Ginger, Oatmeal",
+                            "Medicine": "Antacids"
+                        },
+                        {
+                            "Symptom": "ulcers_on_tongue",
+                            
+                            "Tip": "Avoid spicy and acidic foods",
+                            "Food": "Yogurt, Honey",
+                            "Medicine": "Topical anesthetics"
+                        },
+                        {
+                            "Symptom": "muscle_wasting",
+                          
+                            "Tip": "Engage in resistance training",
+                            "Food": "Lean proteins, Legumes",
+                            "Medicine": "Protein supplements"
+                        },
+                        {
+                            "Symptom": "vomiting",
+                          
+                            "Tip": "Stay hydrated",
+                            "Food": "Clear broths, Electrolyte solutions",
+                            "Medicine": "Antiemetics"
+                        },
+                        {
+                            "Symptom": "burning_micturition",
+                           
+                            "Tip": "Drink plenty of water",
+                            "Food": "Cranberry juice, Yogurt",
+                            "Medicine": "Antibiotics"
+                        },
+                        {
+                            "Symptom": "spotting_urination",
+                           
+                            "Tip": "Avoid irritants",
+                            "Food": "Water, Cranberry juice",
+                            "Medicine": "Antibiotics"
+                        },
+                        {
+                            "Symptom": "fatigue",
+                            
+                            "Tip": "Get adequate rest",
+                            "Food": "Nuts, Spinach",
+                            "Medicine": "Multivitamins"
+                        },
+                        {
+                            "Symptom": "weight_gain",
+                             "Tip": "Exercise regularly",
+                            "Food": "Fruits, Vegetables",
+                            "Medicine": "Weight management medications"
+                        },
+                        {
+                            "Symptom": "anxiety",
+                          
+                            "Tip": "Practice relaxation techniques",
+                            "Food": "Chamomile tea, Dark chocolate",
+                            "Medicine": "Anxiolytics"
+                        },
+                        {
+                            "Symptom": "cold_hands_and_feets",
+                        
+                            "Tip": "Keep warm",
+                            "Food": "Ginger tea, Iron-rich foods",
+                            "Medicine": "Circulation enhancers"
+                        },
+                        {
+                            "Symptom": "mood_swings",
+                           
+                            "Tip": "Maintain a regular routine",
+                            "Food": "Omega-3 fatty acids, Dark chocolate",
+                            "Medicine": "Mood stabilizers"
+                        },
+                        {
+                            "Symptom": "weight_loss",
+                          
+                            "Tip": "Eat nutrient-dense foods",
+                            "Food": "Avocados, Nuts",
+                            "Medicine": "Appetite stimulants"
+                        },
+                        {
+                            "Symptom": "restlessness",
+                           
+                            "Tip": "Practice deep breathing exercises",
+                            "Food": "Herbal teas, Whole grains",
+                            "Medicine": "Sedatives"
+                        },
+                        {
+                            "Symptom": "lethargy",
+                           
+                            "Tip": "Increase physical activity",
+                            "Food": "Leafy greens, Lean proteins",
+                            "Medicine": "Energy supplements"
+                        },
+                        {
+                            "Symptom": "patches_in_throat",
+                           
+                            "Tip": "Gargle with salt water",
+                            "Food": "Honey, Warm liquids",
+                            "Medicine": "Antibiotics"
+                        },
+                        {
+                            "Symptom": "irregular_sugar_level",
+                            
+                            "Tip": "Monitor blood sugar regularly",
+                            "Food": "Whole grains, Green vegetables",
+                            "Medicine": "Insulin"
+                        },
+                        {
+                            "Symptom": "cough",
+                           
+                            "Tip": "Stay hydrated",
+                            "Food": "Honey, Ginger",
+                            "Medicine": "Cough syrups"
+                        },
+                        {
+                            "Symptom": "high_fever",
+                           
+                            "Tip": "Stay hydrated and rest",
+                            "Food": "Electrolyte drinks, Soups",
+                            "Medicine": "Paracetamol"
+                        },
+                        {
+                            "Symptom": "sunken_eyes",
+                           
+                            "Tip": "Stay hydrated",
+                            "Food": "Water-rich fruits, Cucumber",
+                            "Medicine": "Hydration supplements"
+                        },
+                        {
+                            "Symptom": "breathlessness",
+                           
+                            "Tip": "Avoid strenuous activities",
+                            "Food": "Magnesium-rich foods, Spinach",
+                            "Medicine": "Bronchodilators"
+                        },
+                        {
+                            "Symptom": "sweating",
+                           
+                            "Tip": "Stay cool",
+                            "Food": "Water, Electrolyte drinks",
+                            "Medicine": "Antiperspirants"
+                        },
+                        {
+                            "Symptom": "dehydration",
+                           
+                            "Tip": "Drink plenty of fluids",
+                            "Food": "Water, Electrolyte solutions",
+                            "Medicine": "ORS"
+                        },
+                        {
+                            "Symptom": "indigestion",
+                           
+                            "Tip": "Eat smaller meals",
+                            "Food": "Ginger, Yogurt",
+                            "Medicine": "Antacids"
+                        },
+                        {
+                            "Symptom": "headache",
+                           
+                            "Tip": "Rest in a dark room",
+                            "Food": "Water, Herbal teas",
+                            "Medicine": "Pain relievers"
+                        },
+                        {
+                            "Symptom": "yellowish_skin",
+                           
+                            "Tip": "Check liver function",
+                            "Food": "Leafy greens, Beetroot",
+                            "Medicine": "Liver supplements"
+                        },
+                        {
+                            "Symptom": "dark_urine",
+                           
+                            "Tip": "Stay hydrated",
+                            "Food": "Water, Coconut water",
+                            "Medicine": "Hydration supplements"
+                        },
+                        {
+                            "Symptom": "nausea",
+                            
+                            "Tip": "Eat small, frequent meals",
+                            "Food": "Ginger, Crackers",
+                            "Medicine": "Antiemetics"
+                        },
+                        {
+                            "Symptom": "loss_of_appetite",
+                            
+                            "Tip": "Eat nutrient-dense foods",
+                            "Food": "Nuts, Smoothies",
+                            "Medicine": "Appetite stimulants"
+                        },
+                        {
+                            "Symptom": "pain_behind_the_eyes",
+                            
+                            "Tip": "Rest and avoid screen time",
+                            "Food": "Carrots, Leafy greens",
+                            "Medicine": "Pain relievers"
+                        },
+                        {
+                            "Symptom": "back_pain",
+                           
+                            "Tip": "Maintain good posture",
+                            "Food": "Omega-3 rich foods, Turmeric",
+                            "Medicine": "NSAIDs"
+                        },
+                        {
+                            "Symptom": "constipation",
+                           
+                            "Tip": "Increase fiber intake",
+                            "Food": "Whole grains, Prunes",
+                            "Medicine": "Laxatives"
+                        },
+                        {
+                            "Symptom": "abdominal_pain",
+                           
+                            "Tip": "Avoid spicy foods",
+                            "Food": "Bananas, Rice",
+                            "Medicine": "Antacids"
+                        },
+                        {
+                            "Symptom": "diarrhoea",
+                           
+                            "Tip": "Stay hydrated",
+                            "Food": "BRAT diet (Bananas, Rice, Applesauce, Toast)",
+                            "Medicine": "Antidiarrheals"
+                        },
+                        {
+                            "Symptom": "mild_fever",
+                           
+                            "Tip": "Stay hydrated and rest",
+                            "Food": "Soups, Herbal teas",
+                            "Medicine": "Paracetamol"
+                        },
+                        {
+                            "Symptom": "yellow_urine",
+                            
+                            "Tip": "Drink plenty of water",
+                            "Food": "Water, Coconut water",
+                            "Medicine": "Hydration supplements"
+                        },
+                        {
+                            "Symptom": "yellowing_of_eyes",
+                           
+                            "Tip": "Check liver function",
+                            "Food": "Leafy greens, Beetroot",
+                            "Medicine": "Liver supplements"
+                        },
+                        {
+                            "Symptom": "acute_liver_failure",
+                            
+                            "Tip": "Seek immediate medical attention",
+                            "Food": "Leafy greens, Cruciferous vegetables",
+                            "Medicine": "Liver function medications"
+                        },
+                        {
+                            "Symptom": "fluid_overload",
+                            
+                            "Tip": "Monitor fluid intake",
+                            "Food": "Low-sodium foods, Water",
+                            "Medicine": "Diuretics"
+                        },
+                        {
+                            "Symptom": "swelling_of_stomach",
+                           
+                            "Tip": "Avoid high-salt foods",
+                            "Food": "Leafy greens, Berries",
+                            "Medicine": "Diuretics"
+                        },
+                        {
+                            "Symptom": "swelled_lymph_nodes",
+                            
+                            "Tip": "Apply warm compress",
+                            "Food": "Citrus fruits, Garlic",
+                            "Medicine": "Antibiotics"
+                        },
+                        {
+                            "Symptom": "malaise",
+                            
+                            "Tip": "Get plenty of rest",
+                            "Food": "Nutrient-dense foods, Smoothies",
+                            "Medicine": "Multivitamins"
+                        },
+                        {
+                            "Symptom": "blurred_and_distorted_vision",
+                           
+                            "Tip": "Avoid straining eyes",
+                            "Food": "Carrots, Leafy greens",
+                            "Medicine": "Vision supplements"
+                        },
+                        {
+                            "Symptom": "phlegm",
+                           
+                            "Tip": "Stay hydrated",
+                            "Food": "Warm teas, Soups",
+                            "Medicine": "Expectorants"
+                        },
+                        {
+                            "Symptom": "throat_irritation",
+                            
+                            "Tip": "Gargle with salt water",
+                            "Food": "Honey, Warm liquids",
+                            "Medicine": "Throat lozenges"
+                        },
+                        {
+                            "Symptom": "redness_of_eyes",
+                            
+                            "Tip": "Use eye drops",
+                            "Food": "Cucumber, Carrots",
+                            "Medicine": "Antihistamine eye drops"
+                        },
+                        {
+                            "Symptom": "sinus_pressure",
+                           
+                            "Tip": "Use a humidifier",
+                            "Food": "Spicy foods, Ginger",
+                            "Medicine": "Decongestants"
+                        },
+                        {
+                            "Symptom": "runny_nose",
+                           
+                            "Tip": "Stay hydrated",
+                            "Food": "Water, Vitamin C rich foods",
+                            "Medicine": "Antihistamines"
+                        },
+                        {
+                            "Symptom": "congestion",
+                           
+                            "Tip": "Use steam inhalation",
+                            "Food": "Spicy foods, Warm teas",
+                            "Medicine": "Decongestants"
+                        },
+                        {
+                            "Symptom": "chest_pain",
+                           
+                            "Tip": "Seek immediate medical attention",
+                            "Food": "Heart-healthy foods, Omega-3 fatty acids",
+                            "Medicine": "Heart medications"
+                        },
+                        {
+                            "Symptom": "weakness_in_limbs",
+                           
+                            "Tip": "Engage in physical therapy",
+                            "Food": "Protein-rich foods, Nuts",
+                            "Medicine": "Neuropathic pain medications"
+                        },
+                        {
+                            "Symptom": "fast_heart_rate",
+                            
+                            "Tip": "Practice relaxation techniques",
+                            "Food": "Magnesium-rich foods, Leafy greens",
+                            "Medicine": "Beta-blockers"
+                        },
+                        {
+                            "Symptom": "pain_during_bowel_movements",
+                           
+                            "Tip": "Increase fiber intake",
+                            "Food": "Whole grains, Vegetables",
+                            "Medicine": "Laxatives"
+                        },
+                        {
+                            "Symptom": "pain_in_anal_region",
+                           
+                            "Tip": "Apply warm compress",
+                            "Food": "High-fiber foods, Water",
+                            "Medicine": "Topical creams"
+                        },
+                        {
+                            "Symptom": "bloody_stool",
+                            
+                            "Tip": "Seek medical attention",
+                            "Food": "High-fiber foods, Water",
+                            "Medicine": "Hemostatic agents"
+                        },
+                        {
+                            "Symptom": "irritation_in_anus",
+                           
+                            "Tip": "Keep the area clean",
+                            "Food": "High-fiber foods, Water",
+                            "Medicine": "Topical creams"
+                        },
+                        {
+                            "Symptom": "neck_pain",
+                            
+                            "Tip": "Maintain good posture",
+                            "Food": "Omega-3 rich foods, Turmeric",
+                            "Medicine": "Pain relievers"
+                        },
+                        {
+                            "Symptom": "dizziness",
+                            
+                            "Tip": "Avoid sudden movements",
+                            "Food": "Water, Ginger",
+                            "Medicine": "Antihistamines"
+                        },
+                        {
+                            "Symptom": "cramps",
+                           
+                            "Tip": "Apply heat",
+                            "Food": "Bananas, Potassium-rich foods",
+                            "Medicine": "Pain relievers"
+                        },
+                        {
+                            "Symptom": "bruising",
+                           
+                            "Tip": "Apply ice pack",
+                            "Food": "Vitamin C rich foods, Leafy greens",
+                            "Medicine": "Pain relievers"
+                        },
+                        {
+                            "Symptom": "obesity",
+                           
+                            "Tip": "Follow a balanced diet",
+                            "Food": "Fruits, Vegetables",
+                            "Medicine": "Weight management medications"
+                        },
+                        {
+                            "Symptom": "swollen_legs",
+                            
+                            "Tip": "Elevate legs",
+                            "Food": "Low-sodium foods, Water",
+                            "Medicine": "Diuretics"
+                        },
+                        {
+                            "Symptom": "swollen_blood_vessels",
+                            
+                            "Tip": "Avoid standing for long periods",
+                            "Food": "Leafy greens, Garlic",
+                            "Medicine": "Compression stockings"
+                        },
+                        {
+                            "Symptom": "puffy_face_and_eyes",
+                           
+                            "Tip": "Reduce salt intake",
+                            "Food": "Water-rich fruits, Cucumber",
+                            "Medicine": "Diuretics"
+                        },
+                        {
+                            "Symptom": "enlarged_thyroid",
+                            
+                            "Tip": "Get thyroid function tested",
+                            "Food": "Iodine-rich foods, Seafood",
+                            "Medicine": "Thyroid medications"
+                        },
+                        {
+                            "Symptom": "brittle_nails",
+                            
+                            "Tip": "Use nail strengtheners",
+                            "Food": "Biotin-rich foods, Eggs",
+                            "Medicine": "Biotin supplements"
+                        },
+                        {
+                            "Symptom": "swollen_extremeties",
+                           
+                            "Tip": "Elevate the affected area",
+                            "Food": "Low-sodium foods, Water",
+                            "Medicine": "Diuretics"
+                        },
+                        {
+                            "Symptom": "excessive_hunger",
+                           
+                            "Tip": "Eat balanced meals",
+                            "Food": "Whole grains, Protein-rich foods",
+                            "Medicine": "Appetite suppressants"
+                        },
+                        {
+                            "Symptom": "extra_marital_contacts",
+                         
+                            "Tip": "Practice safe sex",
+                            "Food": "Healthy balanced diet",
+                            "Medicine": "Regular health check-ups"
+                        },
+                        {
+                            "Symptom": "drying_and_tingling_lips",
+                            
+                            "Tip": "Stay hydrated",
+                            "Food": "Water, Vitamin B12 rich foods",
+                            "Medicine": "Lip balms"
+                        },
+                        {
+                            "Symptom": "slurred_speech",
+                           
+                            "Tip": "Seek medical evaluation",
+                            "Food": "Water, Omega-3 rich foods",
+                            "Medicine": "Speech therapy"
+                        },
+                        {
+                            "Symptom": "knee_pain",
+                           
+                            "Tip": "Apply ice pack",
+                            "Food": "Omega-3 rich foods, Turmeric",
+                            "Medicine": "NSAIDs"
+                        },
+                        {
+                            "Symptom": "hip_joint_pain",
+                           
+                            "Tip": "Avoid high-impact activities",
+                            "Food": "Omega-3 rich foods, Lean proteins",
+                            "Medicine": "Pain relievers"
+                        },
+                        {
+                            "Symptom": "muscle_weakness",
+                         
+                            "Tip": "Engage in strength training",
+                            "Food": "Lean proteins, Legumes",
+                            "Medicine": "Protein supplements"
+                        },
+                        {
+                            "Symptom": "stiff_neck",
+                           
+                            "Tip": "Apply heat or cold packs",
+                            "Food": "Omega-3 rich foods, Turmeric",
+                            "Medicine": "Pain relievers"
+                        },
+                        {
+                            "Symptom": "swelling_joints",
+                           
+                            "Tip": "Apply ice packs",
+                            "Food": "Omega-3 rich foods, Leafy greens",
+                            "Medicine": "Anti-inflammatory drugs"
+                        },
+                        {
+                            "Symptom": "movement_stiffness",
+                           
+                            "Tip": "Engage in regular exercise",
+                            "Food": "Omega-3 rich foods, Turmeric",
+                            "Medicine": "Muscle relaxants"
+                        },
+                        {
+                            "Symptom": "spinning_movements",
+                        
+                            "Tip": "Avoid sudden movements",
+                            "Food": "Water, Ginger",
+                            "Medicine": "Antihistamines"
+                        },
+                        {
+                            "Symptom": "loss_of_balance",
+                           
+                            "Tip": "Use support while walking",
+                            "Food": "Magnesium-rich foods, Leafy greens",
+                            "Medicine": "Balance training"
+                        },
+                        {
+                            "Symptom": "unsteadiness",
+                            
+                            "Tip": "Avoid hazardous activities",
+                            "Food": "Water, Ginger",
+                            "Medicine": "Balance training"
+                        },
+                        {
+                            "Symptom": "weakness_of_one_body_side",
+                           
+                            "Tip": "Engage in physical therapy",
+                            "Food": "Protein-rich foods, Nuts",
+                            "Medicine": "Neuropathic pain medications"
+                        },
+                        {
+                            "Symptom": "loss_of_smell",
+                           
+                            "Tip": "Use smell training",
+                            "Food": "Ginger, Citrus fruits",
+                            "Medicine": "Nasal sprays"
+                        },
+                        {
+                            "Symptom": "bladder_discomfort",
+                           
+                            "Tip": "Drink plenty of water",
+                            "Food": "Cranberry juice, Yogurt",
+                            "Medicine": "Antibiotics"
+                        },
+                        {
+                            "Symptom": "foul_smell_ofurine",
+                           
+                            "Tip": "Stay hydrated",
+                            "Food": "Water, Cranberry juice",
+                            "Medicine": "Antibiotics"
+                        },
+                        {
+                            "Symptom": "continuous_feel_of_urine",
+                         
+                            "Tip": "Avoid caffeine",
+                            "Food": "Water, Cranberry juice",
+                            "Medicine": "Antibiotics"
+                        },
+                        {
+                            "Symptom": "passage_of_gases",
+                           
+                            "Tip": "Avoid gas-forming foods",
+                            "Food": "Ginger, Peppermint tea",
+                            "Medicine": "Antacids"
+                        },
+                        {
+                            "Symptom": "internal_itching",
+                           
+                            "Tip": "Avoid allergens",
+                            "Food": "Oatmeal, Aloe Vera",
+                            "Medicine": "Antihistamines"
+                        },
+                        {
+                            "Symptom": "toxic_look_(typhos)",
+                           
+                            "Tip": "Seek medical attention",
+                            "Food": "Nutrient-dense foods, Hydration",
+                            "Medicine": "Antibiotics"
+                        },
+                        {
+                            "Symptom": "depression",
+                          
+                            "Tip": "Seek therapy",
+                            "Food": "Omega-3 rich foods, Dark chocolate",
+                            "Medicine": "Antidepressants"
+                        },
+                        {
+                            "Symptom": "irritability",
+                            
+                            "Tip": "Practice relaxation techniques",
+                            "Food": "Herbal teas, Whole grains",
+                            "Medicine": "Mood stabilizers"
+                        },
+                        {
+                            "Symptom": "muscle_pain",
+                          
+                            "Tip": "Apply heat or cold packs",
+                            "Food": "Omega-3 rich foods, Turmeric",
+                            "Medicine": "Pain relievers"
+                        },
+                        {
+                            "Symptom": "altered_sensorium",
+                           
+                            "Tip": "Seek medical evaluation",
+                            "Food": "Water, Omega-3 rich foods",
+                            "Medicine": "Neurological medications"
+                        },
+                        {
+                            "Symptom": "red_spots_over_body",
+                       
+                            "Tip": "Avoid scratching",
+                            "Food": "Leafy greens, Berries",
+                            "Medicine": "Topical steroids"
+                        },
+                        {
+                            "Symptom": "belly_pain",
+                           
+                            "Tip": "Avoid spicy foods",
+                            "Food": "Bananas, Rice",
+                            "Medicine": "Antacids"
+                        },
+                        {
+                            "Symptom": "abnormal_menstruation",
+                          
+                            "Tip": "Keep track of menstrual cycle",
+                            "Food": "Iron-rich foods, Leafy greens",
+                            "Medicine": "Hormonal medications"
+                        },
+                        {
+                            "Symptom": "dischromic_patches",
+                           
+                            "Tip": "Use sunscreen",
+                            "Food": "Leafy greens, Citrus fruits",
+                            "Medicine": "Topical creams"
+                        },
+                        {
+                            "Symptom": "watering_from_eyes",
+                          
+                            "Tip": "Use artificial tears",
+                            "Food": "Carrots, Leafy greens",
+                            "Medicine": "Antihistamine eye drops"
+                        },
+                        {
+                            "Symptom": "increased_appetite",
+                            
+                            "Tip": "Eat balanced meals",
+                            "Food": "Whole grains, Protein-rich foods",
+                            "Medicine": "Appetite suppressants"
+                        },
+                        {
+                            "Symptom": "polyuria",
+                         
+                            "Tip": "Monitor fluid intake",
+                            "Food": "Low-sodium foods, Water",
+                            "Medicine": "Diuretics"
+                        },
+                        {
+                            "Symptom": "family_history",
+                           
+                            "Tip": "Get regular health check-ups",
+                            "Food": "Healthy balanced diet",
+                            "Medicine": "Preventive medications"
+                        },
+                        {
+                            "Symptom": "mucoid_sputum",
+                            
+                            "Tip": "Stay hydrated",
+                            "Food": "Warm teas, Soups",
+                            "Medicine": "Expectorants"
+                        },
+                        {
+                            "Symptom": "rusty_sputum",
+                           
+                            "Tip": "Seek medical attention",
+                            "Food": "Warm teas, Soups",
+                            "Medicine": "Antibiotics"
+                        },
+                        {
+                            "Symptom": "lack_of_concentration",
+                           
+                            "Tip": "Take regular breaks",
+                            "Food": "Nuts, Berries",
+                            "Medicine": "Cognitive enhancers"
+                        },
+                        {
+                            "Symptom": "visual_disturbances",
+                           
+                            "Tip": "Avoid straining eyes",
+                            "Food": "Carrots, Leafy greens",
+                            "Medicine": "Vision supplements"
+                        },
+                        {
+                            "Symptom": "receiving_blood_transfusion",
+                           
+                            "Tip": "Monitor for any reactions",
+                            "Food": "Iron-rich foods, Leafy greens",
+                            "Medicine": "Preventive medications"
+                        },
+                        {
+                            "Symptom": "receiving_unsterile_injections",
+                          
+                            "Tip": "Seek medical evaluation",
+                            "Food": "Healthy balanced diet",
+                            "Medicine": "Preventive medications"
+                        },
+                        {
+                            "Symptom": "coma",
+                          
+                            "Tip": "Seek immediate medical attention",
+                            "Food": "Nutrient-dense foods, Hydration",
+                            "Medicine": "Intensive care medications"
+                        },
+                        {
+                            "Symptom": "stomach_bleeding",
+                          
+                            "Tip": "Seek medical attention",
+                            "Food": "Bananas, Rice",
+                            "Medicine": "Hemostatic agents"
+                        },
+                        {
+                            "Symptom": "distention_of_abdomen",
+                            
+                            "Tip": "Avoid gas-forming foods",
+                            "Food": "Ginger, Peppermint tea",
+                            "Medicine": "Antacids"
+                        },
+                        {
+                            "Symptom": "history_of_alcohol_consumption",
+                           
+                            "Tip": "Reduce alcohol intake",
+                            "Food": "Leafy greens, Water",
+                            "Medicine": "Liver supplements"
+                        },
+                        {
+                            "Symptom": "blood_in_sputum",
+                           
+                            "Tip": "Seek medical attention",
+                            "Food": "Warm teas, Soups",
+                            "Medicine": "Antibiotics"
+                        },
+                        {
+                            "Symptom": "prominent_veins_on_calf",
+                          
+                            "Tip": "Avoid standing for long periods",
+                            "Food": "Leafy greens, Garlic",
+                            "Medicine": "Compression stockings"
+                        },
+                        {
+                            "Symptom": "palpitations",
+                           
+                            "Tip": "Practice relaxation techniques",
+                            "Food": "Magnesium-rich foods, Leafy greens",
+                            "Medicine": "Beta-blockers"
+                        },
+                        {
+                            "Symptom": "painful_walking",
+                          
+                            "Tip": "Apply ice packs",
+                            "Food": "Omega-3 rich foods, Turmeric",
+                            "Medicine": "Pain relievers"
+                        },
+                        {
+                            "Symptom": "pus_filled_pimples",
+                           
+                            "Tip": "Keep the area clean",
+                            "Food": "Water, Leafy greens",
+                            "Medicine": "Topical antibiotics"
+                        },
+                        {
+                            "Symptom": "blackheads",
+                           
+                            "Tip": "Cleanse regularly",
+                            "Food": "Water, Leafy greens",
+                            "Medicine": "Topical retinoids"
+                        },
+                        {
+                            "Symptom": "scurring",
+                           
+                            "Tip": "Keep the area clean",
+                            "Food": "Leafy greens, Citrus fruits",
+                            "Medicine": "Topical antibiotics"
+                        },
+                        {
+                            "Symptom": "skin_peeling",
+                           
+                            "Tip": "Moisturize regularly",
+                            "Food": "Water-rich fruits, Leafy greens",
+                            "Medicine": "Topical moisturizers"
+                        },
+                        {
+                            "Symptom": "silver_like_dusting",
+                          
+                            "Tip": "Use medicated creams",
+                            "Food": "Leafy greens, Citrus fruits",
+                            "Medicine": "Topical steroids"
+                        },
+                        {
+                            
+                           "Symptom": "small_dents_in_nails",
+                            "Tip": "Use nail strengtheners",
+                            "Food": "Biotin-rich foods, Eggs",
+                            "Medicine": "Biotin supplements"
+                        },
+                        {
+                           
+                            "Symptom": "inflammatory_nails",
+                            "Tip": "Keep the area clean",
+                            "Food": "Leafy greens, Garlic",
+                            "Medicine": "Topical antibiotics"
+                        },
+                        {
+                            "Symptom": "blister",
+                           "Tip": "Keep the area clean",
+                            "Food": "Water, Leafy greens",
+                            "Medicine": "Topical antibiotics"
+                        },
+                        {
+                            "Symptom": "red sore around nose",
+                            "Tip": "Use medicated creams",
+                            "Food": "Leafy greens, Citrus fruits",
+                            "Medicine": "Topical antibiotics"
+                        },
+                        {
+                            "Symptom": "yellow crust ooze",
+                            "Tip": "Keep the area clean",
+                            "Food": "Leafy greens, Garlic",
+                            "Medicine": "Topical antibiotics"
+                        }
+    ]
+}
+                    
+                    
+                
+            
+      
